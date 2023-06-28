@@ -1,6 +1,7 @@
 # brain.fm-feature
-Quick Demo displaying a possible added feature 
+Quick Demo displaying a possible additional feature 
 
 
 
-![brain fm feature ](https://github.com/randujar711/brain.fm-feature/assets/97029985/7e270384-fe52-49cd-8499-d065ba8985d2)
+
+![brainfeature](https://github.com/randujar711/brain.fm-feature/assets/97029985/d3275a24-822b-46f9-880e-1a4b4b5b18a6)
